@@ -22,10 +22,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".StartUp"
-            android:exported="true"
-            android:screenOrientation="landscape"
-            >
+            android:name=".GameResult"
+            android:exported="true">
         </activity>
     </application>
 
